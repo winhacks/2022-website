@@ -13,3 +13,4 @@ For your hack/submission to be eligible for WinHacks 2022, it must follow the fo
   - Don't have a team channel yet? Head to he #how-to-team-up channel on our server for instructions
   - TLDR, `/team create team-name` to create a team channel, and `/team invite @team-member-name` to invite members
 - All team members must be listed on your Devpost submission. Any team member not listed on Devpost will not receive a prize.
+- All team members must be either: undergraduate students, graduate students, high school students, or one of the previous who has graduated within the last 12 months. Unfortunately if you have graduated more than 12 months ago, you are not eligible for WinHacks 2022.
